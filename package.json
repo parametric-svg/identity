@@ -1,0 +1,12 @@
+{ "name": "parametric-svg.identity"
+, "version": "0.1.0"
+, "private": "true"
+
+, "scripts":
+  { "svg-optimize": "svgo --disable=convertShapeToPath --disable=convertPathData --disable=cleanupIDs --disable=mergePaths --enable=sortAttrs --pretty logo/basic.svg"
+  }
+
+, "devDependencies":
+  { "svgo": "0.5.0"
+  }
+}
