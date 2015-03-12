@@ -28,19 +28,19 @@
         />
 
     <path id="dimension" fill="none" stroke="#4d4d4d" stroke-linecap="square"
-        parametric:d="'m 518.5,51
-                       l 0,5
-                       m 0,-2.5
-                       l ' + (90 + xStretch) + ',0
-                       m 0,-2.5
-                       l 0,5'
+        parametric:d=" 'm 518.5,51 '
+                     + 'l 0,5 '
+                     + 'm 0,-2.5 '
+                     + 'l ' + (90 + xStretch) + ',0 '
+                     + 'm 0,-2.5 '
+                     + 'l 0,5'
                      "
-                   d=" m 518.5,51
-                       l 0,5
-                       m 0,-2.5
-                       l 90,0
-                       m 0,-2.5
-                       l 0,5
+                   d="  m 518.5,51
+                        l 0,5
+                        m 0,-2.5
+                        l 90,0
+                        m 0,-2.5
+                        l 0,5
                      "
         />
 
