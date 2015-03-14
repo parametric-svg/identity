@@ -4,7 +4,7 @@
 
   <defs>
     <ref param="stretchDown" parametric:default="0" />
-    <clipPath id="svg-shadow-clip"><rect height="59" x="518" y="68"
+    <clipPath id="svg-shadow-clip"><rect x="518"
       parametric:width="91 + stretchOut"
                  width="91"
       parametric:height="59 + 2 * stretchDown"
