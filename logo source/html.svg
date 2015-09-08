@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:parametric="https://parametric-svg.github.io/v0.2"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="logo"
+   class="logo"
+   version="1.1"
+   width="680"
+   height="190"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="html.svg">
+  <metadata
+     id="metadata48">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     id="namedview46"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="375.38479"
+     inkscape:cy="82.956298"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="logo" />
+  <defs
+     id="defs3">
+    <ref
+       param="stretchDown"
+       parametric:default="0" />
+    <clipPath
+       id="svg-shadow-clip">
+      <rect
+         x="518"
+         parametric:width="91 + stretchOut"
+         width="91"
+         parametric:height="59 + 2 * stretchDown"
+         height="59"
+         parametric:y="68 - stretchDown"
+         y="68"
+         id="rect6" />
+    </clipPath>
+  </defs>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:89.15502167px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:center;letter-spacing:-4.4499966px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="336.9527"
+     y="121.35029"
+     id="text4176"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4178"
+       x="333.71179"
+       y="121.35029"
+       dx="0 2.058743 -1.3957583 1.3957583 -0.78511399 0.83745497 2.0674667 1.6749099 2.5821526 0 0 0 5.9494171 3.2451379">parametric-svg</tspan></text>
+  <path
+     sodipodi:nodetypes="ccc"
+     inkscape:connector-curvature="0"
+     id="rect4257"
+     d="M 53.666354,131.28767 17.473722,97.587234 53.666355,63.886805"
+     stroke="#9eab05"
+     stroke-width="3"
+     fill="none"
+     />
+  <use
+     height="100%"
+     width="100%"
+     transform="matrix(-1,0,0,1,680,0)"
+     id="use5196"
+     xlink:href="#rect4257"
+     y="0"
+     x="0" />
+</svg>
